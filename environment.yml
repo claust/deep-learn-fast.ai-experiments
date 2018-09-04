@@ -105,3 +105,4 @@ dependencies:
   - plotnine
   - kaggle-cli
   - ipywidgets
+  - pixiedust
