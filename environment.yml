@@ -106,3 +106,4 @@ dependencies:
   - kaggle-cli
   - ipywidgets
   - pixiedust
+  - ffmpeg-python
